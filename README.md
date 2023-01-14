@@ -1,1 +1,1 @@
-# Classification_Regression_Clustering_Finance_Domain
+# Machine Learning Project in Finance Domain
